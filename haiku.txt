@@ -1,1 +1,2 @@
 This is going great
+We're learning how to use git
